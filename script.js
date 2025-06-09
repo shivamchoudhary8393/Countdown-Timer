@@ -20,10 +20,10 @@ function timer () {
     Seconds.innerHTML = seconds;
 
     if(distance < 0){
-        Days.innerHTML = "00";
-        Hours.innerHTML = "00";
-        Minutes.innerHTML = "00";
-        Seconds.innerHTML = "00";
+        Days.innerHTML = "25";
+        Hours.innerHTML = "30";
+        Minutes.innerHTML = "28";
+        Seconds.innerHTML = "35";
     }
 }
 
